@@ -14,8 +14,12 @@
 * Pilgrim, [Dive into Python 3](http://www.diveintopython3.net), 2009, Apress [Online] Available http://www.diveintopython3.net
 * Beazley, Python Essential Reference 2nd Ed, 2001, Sams
 * [Interactive Python](http://interactivepython.org/)
-* 알 스웨이가트, 파이썬 프로그래밍으로 지루한 작업 자동화하기, 스포트라잇북, 2017
+* 앨런 다우니, 씽크 파이썬 2판, 2017, 길벗, ISBN 979-11-6050-286-2
+* Downey, Think Python 2nd Ed, 2015, O'Reily Media, ISBN 978-14-9193-936-9 [Online] Available http://greenteapress.com/thinkpython/html/index.html
+* 알 스웨이가트, 파이썬 프로그래밍으로 지루한 작업 자동화하기, 2017, 스포트라잇북
+* Sweigart, Automate the Boring Stuff with Python, 2015, No Starch Press, ISBN 978-1593275990
 * 나카쿠키 겐지, 엔지니어를 위한 파이썬, 2017, 제이펍, ISBN 979-11-88621-02-6
+* 中久喜健司, 科学技術計算のためのPython入門, 2016, 技術評論社, ISBN 978-4-7741-8388-6
 
 ### Git 버전 관리 SW Git Version Control SW
 * Chacon, [Pro Git](https://git-scm.com/book/ko/v2), 2015, Apress, [Online] Available https://git-scm.com/book/ko/v2 (2016 09 12)
