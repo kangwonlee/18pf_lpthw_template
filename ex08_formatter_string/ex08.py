@@ -2,7 +2,7 @@
 
 # 참고문헌: http://learnpythonthehardway.org/book/ex8.html
 
-#입력 후 git add, git commit / Enter source code and git add & git commit 해보기
+# 입력 후 git add, git commit / Enter source code and git add & git commit 해보기
 
 # 각 행 주석 입력 후 commit / 배운 내용 comment
  

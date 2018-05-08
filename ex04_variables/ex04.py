@@ -4,7 +4,7 @@
 
 # 파이썬에서의 변수를 이해하기 위해 참고:https://python.bakyeono.net/chapter-2-2.html
 
-#입력 후 git add, git commit / Enter source code and git add & git commit 해보기
+# 입력 후 git add, git commit / Enter source code and git add & git commit 해보기
 
 # 각 행 주석 입력 후 commit / 배운 내용 comment
  
