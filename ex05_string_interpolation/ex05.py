@@ -1,8 +1,8 @@
 # coding: utf-8
 
-# 참고문헌: http://learnpythonthehardway.org/book/ex6.html
+# 참고문헌: http://learnpythonthehardway.org/book/ex5.html
 
-# 문자열 참고 자료: https://wikidocs.net/13
+# [표 1] 문자열 formatter 의 종류 참고: http://studymake.tistory.com/179
 
 # 입력 후 git add, git commit / Enter source code and git add & git commit 해보기
 
