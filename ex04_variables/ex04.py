@@ -11,7 +11,6 @@
 # 출력된 값과 입력한 값을 비교 해본후,중요한 내용들 Git commit/Git comment 시도
 
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))

@@ -10,7 +10,6 @@
 
 
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))

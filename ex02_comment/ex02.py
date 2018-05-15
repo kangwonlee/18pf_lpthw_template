@@ -8,5 +8,4 @@
 
 # 각자 교재에 있는 더해보기를 해본 후, Git commit 시도
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')

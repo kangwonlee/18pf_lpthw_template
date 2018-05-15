@@ -10,7 +10,6 @@
 # 인터넷에서 도움 받기.
 
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
@@ -20,3 +19,5 @@
 # 텍스트 편집기로 입력을 다 한 후에
 # command-line(터미널) 에서 실행시킬 것 / Please run this from the command-line
 
+# Open 함수 관련 도움되는 자료1: https://ddanggle.gitbooks.io/interpy-kr/content/ch20-open-function.html
+# Open 함수 관련 도움되는 자료2: https://kimdoky.github.io/python/2017/11/28/python-file_object.html

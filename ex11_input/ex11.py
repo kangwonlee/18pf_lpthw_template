@@ -11,9 +11,11 @@
 # 각자 교재에 있는 더해보기를 해본 후, Git commit 시도
 
 
-# Notepad가 아닌 텍스트 편집기 사용 시
+
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
 # print 'abc', -> print('abc', end=" ")
+
 # raw_input('abc') -> input('abc')
+# input() 의 경우 터미널에서 키보드로 직접 변수 입력

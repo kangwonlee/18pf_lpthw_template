@@ -8,8 +8,9 @@
  
 # 각자 교재에 있는 더해보기를 해본 후, Git commit 시도
 
+# 일부 키보드의 경우, \가 ￦의 모양으로 프린팅 되어 있습니다. 
+# 기능이 같으므로 지장없이 사용 가능합니다. (Enter 키 위에 있음)
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))

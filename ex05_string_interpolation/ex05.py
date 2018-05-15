@@ -1,8 +1,8 @@
 # coding: utf-8
 
-# 참고문헌: http://learnpythonthehardway.org/book/ex5.html
+# 참고문헌: http://learnpythonthehardway.org/book/ex6.html
 
-# [표 1] 문자열 formatter 의 종류 참고: http://studymake.tistory.com/179
+# 문자열 참고 자료: https://wikidocs.net/13
 
 # 입력 후 git add, git commit / Enter source code and git add & git commit 해보기
 
@@ -11,7 +11,6 @@
 # 각자 교재에 있는 더해보기를 해본 후, Git commit 시도
 
 
-# Notepad가 아닌 텍스트 편집기 사용 시
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))

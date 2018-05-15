@@ -7,6 +7,8 @@
 * 제드 쇼, 정윤원, 깐깐하게 배우는 파이썬, 인사이트, 2014, ISBN 978-89-66261-18-5
 * Shaw, [Learn Python the Hard Way](http://www.learnpythonthehardway.org/book), Addison-Wesley Professional, 2013 [Online] Available http://www.learnpythonthehardway.org/book
 
+
+
 ## 참고문헌 References
 ### Python
 * 천인국, 어서와 파이썬은 처음이지!, 2016, 인피니티 북스, ISBN 1185578234
@@ -21,10 +23,23 @@
 * Chacon, [Pro Git](https://git-scm.com/book/ko/v2), 2015, Apress, [Online] Available https://git-scm.com/book/ko/v2 (2016 09 12)
 * [Git 브랜치 배우기 Learn Git Branching](http://learngitbranching.js.org/), [Online] Available http://learngitbranching.js.org/
 
+
+
 ### 추천 개발 환경 Recommended Development Environment
 * Python 3.x
 * [Anaconda 5.x Python 3.x version](https://www.continuum.io/downloads)
+※ Anaconda는 Spyder, Visual Studio Code 를 포함해 Python을 위해 아주 유용한 기능들을 가지고 있습니다.
+※ Anaconda를 설치시에, 설치경로를 추가로 선택하기를 권합니다 (잘 알고 기억할수 있는 곳)
+
+
 * [Git for Windows](https://git-scm.com/download/win)
+
+※ Windows 사용자는 Git를 공용 PC에 설치 할 경우 
+credential manager를 설치하지 않는것을 권합니다.
+(Credential Manager might be helpful for a student's PC but not for a computer lab PC)
+=> https://stackoverflow.com/questions/15381198/remove-credentials-from-git
+
+
 * [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
 
 ## 주별 강의 계획 (변경 가능성 있음) Weekly Schedule (Subject to Change)
