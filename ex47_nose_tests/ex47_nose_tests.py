@@ -1,5 +1,5 @@
 # coding: utf8
-# 참고문헌: http://learnpythonthehardway.org/book/ex47.html
+# 참고문헌: http://learnpythonthehardway.org/python3/ex47.html
 # http://nose.readthedocs.io/en/latest/usage.html
 # 각 행 주석 입력 후 commit / Enter comment for each line and commit
 # 각자 Study drills 시도 후 필요시 commit / Try Study Drills and commit if necessary

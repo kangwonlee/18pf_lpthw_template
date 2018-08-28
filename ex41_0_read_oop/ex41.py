@@ -1,5 +1,5 @@
 # coding: utf8
-# 참고문헌: http://learnpythonthehardway.org/book/ex41.html
+# 참고문헌: http://learnpythonthehardway.org/python3/ex41.html
 #   https://wikidocs.net/28
 # 입력 후 add, commit / Enter source code, add, and commit
 # 각 행 주석 입력 후 commit / Enter comment for each line and commit
