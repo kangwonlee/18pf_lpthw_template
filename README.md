@@ -26,7 +26,7 @@
 * [Git 브랜치 배우기 Learn Git Branching](http://learngitbranching.js.org/), [Online] Available http://learngitbranching.js.org/
 
 ### 추천 개발 환경 Recommended Development Environment
-* Python 3.x
+* Python 3.6 이상 Python 3.6 or higher 
 * [Anaconda 5.x Python 3.x version](https://www.continuum.io/downloads)
 * [Git for Windows](https://git-scm.com/download/win)
 * [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
