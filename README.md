@@ -51,4 +51,4 @@
 | 15           | 객체지향, NoseTest (조별 프로젝트 최종 발표) <br>Object Oriented Programming, NoseTest (Group Project Final PT)             |     | [40](http://learnpythonthehardway.org/book/ex40.html), [41](http://learnpythonthehardway.org/book/ex41.html), [47](http://learnpythonthehardway.org/book/ex47.html) | 
 
 ## GitHub Classroom Assignment 안내
-* [YouTube Playlist](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
+* [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
