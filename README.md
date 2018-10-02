@@ -1,11 +1,11 @@
 # 컴퓨터 프로그래밍 기초 Computer Programming Fundamentals
 
-* 강의: 이강원, 한국산업기술대학교
-* Lecturer: KangWon LEE, Korea Polytechnic University
+* 이강원, 한국산업기술대학교
+* KangWon LEE, Korea Polytechnic University
 
 ## 교재 Textbook
 * 제드 쇼, 정윤원, 깐깐하게 배우는 파이썬, 인사이트, 2014, ISBN 978-89-66261-18-5
-* Shaw, [Learn Python the Hard Way](http://www.learnpythonthehardway.org/book), Addison-Wesley Professional, 2013 [Online] Available http://www.learnpythonthehardway.org/book
+* Shaw, [Learn Python 3 the Hard Way](http://www.learnpythonthehardway.org/python3), Addison-Wesley Professional, 2017 [Online] Available http://www.learnpythonthehardway.org/python3
 
 ## 참고문헌 References
 ### Python
@@ -26,12 +26,12 @@
 * [Git 브랜치 배우기 Learn Git Branching](http://learngitbranching.js.org/), [Online] Available http://learngitbranching.js.org/
 
 ### 추천 개발 환경 Recommended Development Environment
-* Python 3.x
+* Python 3.6 이상 Python 3.6 or higher 
 * [Anaconda 5.x Python 3.x version](https://www.continuum.io/downloads)
 * [Git for Windows](https://git-scm.com/download/win)
 * [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
 
-## 주별 강의 계획 (변경 가능성 있음) Weekly Schedule (Subject to Change)
+## 주별 계획 (변경 가능성 있음) Weekly Schedule (Subject to Change)
 | 주차<br>week | 주제<br>Subject                                                                                                             | Ch  | LPTHW ex    |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------------:|:---:|:-----------:|
 |  1           | 소개, Git, 설치<br>Introduction, Git, Setup                                                                                 |     | [1](http://learnpythonthehardway.org/book/ex1.html)           |
@@ -51,4 +51,4 @@
 | 15           | 객체지향, NoseTest (조별 프로젝트 최종 발표) <br>Object Oriented Programming, NoseTest (Group Project Final PT)             |     | [40](http://learnpythonthehardway.org/book/ex40.html), [41](http://learnpythonthehardway.org/book/ex41.html), [47](http://learnpythonthehardway.org/book/ex47.html) | 
 
 ## GitHub Classroom Assignment 안내
-* [YouTube Playlist](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
+* [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
