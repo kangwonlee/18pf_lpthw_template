@@ -81,3 +81,15 @@ https://git-scm.com/download/win
 |            |                                                |
 |:----------:|:----------------------------------------------:|
 | 해당 시스템 전체에 걸쳐 무시 설정 | `git config --global core.excludesfile <file>` |
+
+## 공유와 갱신
+
+다른 저장소로부터 새로운 내용을 받아 지역 저장소 내용을 갱신
+
+|            |                                                |
+|:----------:|:----------------------------------------------:|
+| 새로운 원격지 저장소 추가 | `git remote add <저장소 이름> <저장소 url>` |
+| 원격 저장소의 모든 branch의 이력을 받아옴 | `git fetch <저장소 이름>` |
+| 원격 저장소 특정 branch 이력을 병합하여<br>현재 branch 내용을 갱신 | `git merge <저장소 이름>/<branch>` |
+| 현 branch 의 이력을 원격 저장소 branch 로 전송 | `git push <저장소 이름> <branch>` |
+| 추적하고 있는 원격 branch 내용을 받은 fetch 후 병합 merge | `git pull` |
