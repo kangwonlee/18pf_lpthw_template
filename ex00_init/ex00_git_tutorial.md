@@ -32,7 +32,7 @@ https://git-scm.com/download/win
 |            |                                                |
 |:----------:|:----------------------------------------------:|
 | 현재 지역 저장소 상태 확인 | `git status` |
-| 지역 저장소의 현재 작업 폴더에 있는 어떤 `file` 을 다음 `commit` (등록) 대상으로 지정 | `git add <file>` |
+| 지역 저장소의 현재 작업 폴더에 있는 어떤 `file` 을 다음 `commit` (등록) 대상으로 `stage` (지정) | `git add <file>` |
 | 지정 상태 해제 (변경 사항은 유지) | `git reset <file>` |
 | 지정되지 않은 변경 사항 중 확인 | `git diff` |
 | 등록 대기중인 지정 사항 확인 | `git diff --staged` |
