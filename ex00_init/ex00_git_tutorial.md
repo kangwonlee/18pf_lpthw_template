@@ -93,3 +93,10 @@ https://git-scm.com/download/win
 | 원격 저장소 특정 branch 이력을 병합하여<br>현재 branch 내용을 갱신 | `git merge <저장소 이름>/<branch>` |
 | 현 branch 의 이력을 원격 저장소 branch 로 전송 | `git push <저장소 이름> <branch>` |
 | 추적하고 있는 원격 branch 내용을 받은 fetch 후 병합 merge | `git pull` |
+
+## 기준 변경과 작업 공간 재설정
+
+|            |                                                |
+|:----------:|:----------------------------------------------:|
+| 특정 branch 의 개정 이력 이후에<br>현재의 branch의 개정 이력을 추가 | `git rebase <branch>` |
+| 지정 영역 stage area 를 비우고<br>작업 영역 working tree 를<br>특정 commit 으로 덮어씀 | `git reset --hard <commit>` |
