@@ -6,3 +6,4 @@
 # print 'abc' -> print('abc')
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
+# 변수명에는 되도록 단위를 포함 / Add units to the variable names
