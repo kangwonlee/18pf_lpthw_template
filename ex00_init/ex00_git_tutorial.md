@@ -37,3 +37,13 @@ https://git-scm.com/download/win
 | 지정되지 않은 변경 사항 중 확인 | `git diff` |
 | 등록 대기중인 지정 사항 확인 | `git diff --staged` |
 | 지정된 변경사항 등록 | `git commit -m "<등록 사항 설명>"` |
+
+## 분기와 병합
+
+|            |                                                |
+|:----------:|:----------------------------------------------:|
+| 분기 목록 표시. 현재 branch 옆에 `*` 표시 | `git branch` |
+| 현재의 등록사항에 새로운 branch 생성 | `git branch <새 branch 이름>` |
+| 다른 branch 를 현재 branch 로 변경 | `git checkout <branch 이름>` |
+| 해당 branch 의 개정 이력을 현재의 branch 와 병합 | `git merge <branch 이름>` |
+| 현 branch 의 개정 이력상 commit 을 모두 표시 | `git log` |
