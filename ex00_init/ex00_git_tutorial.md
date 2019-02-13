@@ -38,6 +38,16 @@ https://git-scm.com/download/win
 | 등록 대기중인 지정 사항 확인 | `git diff --staged` |
 | 지정된 변경사항 등록 | `git commit -m "<등록 사항 설명>"` |
 
+## 조사와 비교
+
+|            |                                                |
+|:----------:|:----------------------------------------------:|
+| 현재 활성 branch의 commit 이력을 표시 | `git log` |
+| `branchA`에는 있으나 `branchB`에는 없는 commit을 표시 | `git log branchB..branchA` |
+| 특정 file 에 관련된 commit 을 표시하되, 파일 이름 변경 이전도 추적 | `git log --follow <file>` |
+| `branchA`에는 있으나 `branchB`에는 없는 내용인 diff 표시 | `git diff branchB...branchA` |
+| git 의 특정 객체를 읽을 수 있는 형태로 표시 | `git show <SHA>` |
+
 ## 분기와 병합
 
 |            |                                                |
