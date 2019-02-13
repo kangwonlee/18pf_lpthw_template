@@ -52,8 +52,8 @@ https://git-scm.com/download/win
 
 |            |                                                |
 |:----------:|:----------------------------------------------:|
-| 저장소로부터 특정 file을 삭제하고 해당 내용을 commit | `git rm <file>` |
-| 특정 file의 경로를 변경하고 해당 내용을 commit | `git mv <기존 경로> <새 경로>` |
+| 저장소로부터 특정 file을 삭제하고 해당 내용을 stage | `git rm <file>` |
+| 특정 file의 경로를 변경하고 해당 내용을 stage | `git mv <기존 경로> <새 경로>` |
 | 경로 변경에 해당하는 commit 표시 | `git log --stat -M` |
 
 ## 분기와 병합
