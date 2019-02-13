@@ -48,6 +48,14 @@ https://git-scm.com/download/win
 | `branchA`에는 있으나 `branchB`에는 없는 내용인 diff 표시 | `git diff branchB...branchA` |
 | git 의 특정 객체를 읽을 수 있는 형태로 표시 | `git show <SHA>` |
 
+## 파일 삭제와 경로 변경 추적
+
+|            |                                                |
+|:----------:|:----------------------------------------------:|
+| 저장소로부터 특정 file을 삭제하고 해당 내용을 commit | `git rm <file>` |
+| 특정 file의 경로를 변경하고 해당 내용을 commit | `git mv <기존 경로> <새 경로>` |
+| 경로 변경에 해당하는 commit 표시 | `git log --stat -M` |
+
 ## 분기와 병합
 
 |            |                                                |
