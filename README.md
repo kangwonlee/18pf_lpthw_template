@@ -4,7 +4,7 @@
 * KangWon LEE, Korea Polytechnic University
 
 ## 교재 Textbook
-* 제드 쇼, 정윤원, 깐깐하게 배우는 파이썬, 인사이트, 2014, ISBN 978-89-66261-18-5
+* 제드 쇼, 정윤원, 깐깐하게 배우는 파이썬3, 인사이트, 2019, ISBN 978-89-66262-31-1
 * Shaw, [Learn Python 3 the Hard Way](http://www.learnpythonthehardway.org/python3), Addison-Wesley Professional, 2017 [Online] Available http://www.learnpythonthehardway.org/python3
 
 ## 참고문헌 References
