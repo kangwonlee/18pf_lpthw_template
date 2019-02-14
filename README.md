@@ -48,8 +48,8 @@
 | 11           | for 반복문과 list, while 반복문<br>for & list, while                                                                        |     | [32](https://learnpythonthehardway.org/python3/ex32.html), [33](https://learnpythonthehardway.org/python3/ex33.html) |
 | 12           | list의 각 요소, 구조적 프로그래밍, (조별 프로젝트 2차 발표)<br>List index, Structural programming, (Group Project PT 2)     |     | [34](https://learnpythonthehardway.org/python3/ex34.html), [35](https://learnpythonthehardway.org/python3/ex35.html) |
 | 13           | 설계와 오류수정, 예약어와 기호, 리스트 조작, 딕셔너리 <br>Designing & Debugging, Symbols, List, Dictionary                  |     | [36](https://learnpythonthehardway.org/python3/ex36.html), [37](https://learnpythonthehardway.org/python3/ex37.html), [38](https://learnpythonthehardway.org/python3/ex38.html), [39](https://learnpythonthehardway.org/python3/ex39.html), |
-| 14           | 기말시험<br>Final exam                                                                                                      |     |             |
-| 15           | 객체지향, NoseTest (조별 프로젝트 최종 발표) <br>Object Oriented Programming, NoseTest (Group Project Final PT)             |     | [40](https://learnpythonthehardway.org/python3/ex40.html), [41](https://learnpythonthehardway.org/python3/ex41.html), [47](https://learnpythonthehardway.org/python3/ex47.html) | 
+| 14           | 객체지향, NoseTest (조별 프로젝트 최종 발표) <br>Object Oriented Programming, NoseTest (Group Project Final PT)             |     | [40](https://learnpythonthehardway.org/python3/ex40.html), [41](https://learnpythonthehardway.org/python3/ex41.html), [47](https://learnpythonthehardway.org/python3/ex47.html) | 
+| 15           | 기말시험<br>Final exam                                                                                                      |     |             |
 
 ## GitHub Classroom Assignment 안내
 * [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
