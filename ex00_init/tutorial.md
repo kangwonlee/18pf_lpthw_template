@@ -56,7 +56,7 @@
 | 지정 상태를 해제하고 싶은 경우 (변경 사항은 유지) | `git reset <file>` |
 | 등록 대기중인 지정 사항 확인 | `git diff --staged` |
 | 지정된 변경사항을 지역 저장소에 등록 | `git commit -m "<변경 내용 설명>"` |
-| 지정 사항을 지역 저장소에 등록<br>설명은 (`vi`) 편집기로 입력 |  `git commit`<br><kbd>i</kbd><변경 내용 설명><kbd>Enter</kbd><kbd>ESC</kbd><br>`:wq`<kbd>Enter</kbd> |
+| 지정 사항을 지역 저장소에 등록<br>설명은 (`vi`) 편집기로 입력 |  `git commit`<kbd>Enter</kbd><br><kbd>i</kbd><변경 내용 설명><kbd>Enter</kbd><br><kbd>ESC</kbd>`:wq`<kbd>Enter</kbd> |
 | 지역 저장소 변경 이력 확인 | `git log` |
 | 새로운 지역 저장소 변경 이력을 원격 저장소로 송신<br>해당 원격 저장소에 쓰기 권한 필요 | `git push` |
 
