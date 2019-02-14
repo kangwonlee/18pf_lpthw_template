@@ -24,3 +24,4 @@
 | Windows 에서 D: drive 로 이동 | `cd /d/` |
 | 실행 파일의 정확한 위치 | `which git` |
 | 문서 파일의 내용 확인 | `cat ~/.bashrc` |
+| 여러 명령을 이어서 실행 | `ls ; cd ..`<br>`mkdir test && cd temp` |
