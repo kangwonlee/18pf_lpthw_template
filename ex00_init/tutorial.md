@@ -39,8 +39,8 @@
 | 지역 저장소 폴더로 이동                 | `cd <지역 저장소 폴더이름>`               |
 | 현재 작업 폴더 내용 확인                | `ls`                                    |
 | 지역 저장소 변경 이력 확인              | `git log`                               |
-| 사용자 이름 설정                       | `git config user.name "<사용자 이름>"`    |
-| 사용자 email 설정                      | `git config user.email "<사용자 email>"` |
+| 사용자 이름 설정 (commit 이전)          | `git config user.name "<사용자 이름>"`    |
+| 사용자 email 설정 (commit 이전)        | `git config user.email "<사용자 email>"` |
 
 ## 수정사항 등록
 
