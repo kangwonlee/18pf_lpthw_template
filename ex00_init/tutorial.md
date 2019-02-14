@@ -53,6 +53,7 @@
 | 현재 지역 저장소 상태 확인 | `git status` |
 | 지정되지 않은 변경 사항 중 확인 | `git diff` |
 | 지역 저장소의 현재 작업 폴더에 있는 어떤 file 을<br>다음 등록 `commit` 대상으로 지정 `stage` | `git add <file>` |
+| 변경 사항을 관찰하며 지정 `stage` | `git add -p` |
 | 지정 상태를 해제하고 싶은 경우 (변경 사항은 유지) | `git reset <file>` |
 | 등록 대기중인 지정 사항 확인 | `git diff --staged` |
 | 지정된 변경사항을 지역 저장소에 등록 | `git commit -m "<변경 내용 설명>"` |
