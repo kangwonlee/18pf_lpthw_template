@@ -2,10 +2,8 @@
 
 ## 명령행 `git` 설치 파일 링크
 
-| OS | 주소 |
-|:----------:|:----------------------------------------------:|
-| 전체 | https://git-scm.com/download/ |
-| Windows 용 | https://git-scm.com/download/win |
+* [전체 OS](https://git-scm.com/download/)
+* [Windows](https://git-scm.com/download/win)
 
 ## 자주 사용하는 `git bash` 명령 일람
 
