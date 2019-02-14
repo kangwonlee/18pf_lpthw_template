@@ -26,11 +26,14 @@
 * Chacon, [Pro Git](https://git-scm.com/book/ko/v2), 2015, Apress, [Online] Available https://git-scm.com/book/ko/v2 (2016 09 12)
 * [Git 브랜치 배우기 Learn Git Branching](http://learngitbranching.js.org/), [Online] Available http://learngitbranching.js.org/
 
-### 추천 개발 환경 Recommended Development Environment
+## 추천 개발 환경 Recommended Development Environment
 * Python 3.6 이상 Python 3.6 or higher 
 * [Anaconda 5.x Python 3.x version](https://www.continuum.io/downloads)
 * [Git for Windows](https://git-scm.com/download/win)
 * `git` 를 위한 GUI 가 필요할 경우<br>If a GUI for `git` is necessary : [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
+
+### 설치 동영상<br>Installation video
+[![설치 동영상 Installation video](https://i.ytimg.com/vi/NAQn1jQws3Q/hqdefault.jpg)](https://www.youtube.com/embed/videoseries?list=PLA6B0Lmr9oJNVqYMpfpbXxQCZxNrS1Xuo
 
 ## GitHub Classroom Assignment 안내
 * [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
