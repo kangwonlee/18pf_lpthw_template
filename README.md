@@ -33,7 +33,7 @@
 * `git` 를 위한 GUI 가 필요할 경우<br>If a GUI for `git` is necessary : [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
 
 ### 설치 동영상<br>Installation video
-[![설치 동영상 Installation video](https://i.ytimg.com/vi/NAQn1jQws3Q/hqdefault.jpg)](https://www.youtube.com/embed/videoseries?list=PLA6B0Lmr9oJNVqYMpfpbXxQCZxNrS1Xuo
+[![설치 동영상 Installation video](https://i.ytimg.com/vi/NAQn1jQws3Q/hqdefault.jpg)](https://www.youtube.com/embed/videoseries?list=PLA6B0Lmr9oJNVqYMpfpbXxQCZxNrS1Xuo)
 
 ## GitHub Classroom Assignment 안내
 * [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
