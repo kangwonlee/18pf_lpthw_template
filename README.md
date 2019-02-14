@@ -30,7 +30,7 @@
 * Python 3.6 이상 Python 3.6 or higher 
 * [Anaconda 5.x Python 3.x version](https://www.continuum.io/downloads)
 * [Git for Windows](https://git-scm.com/download/win)
-* [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
+* `git` 를 위한 GUI 가 필요할 경우<br>If a GUI for `git` is necessary : [SourceTree](https://www.sourcetreeapp.com/download/) 또는 or [Github Desktop](https://desktop.github.com/)
 
 ## GitHub Classroom Assignment 안내
 * [![YouTube Playlist](https://i.ytimg.com/vi/efCnw0XfzGQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJPy7QUyNeNwIYObFNQtzqJG)
