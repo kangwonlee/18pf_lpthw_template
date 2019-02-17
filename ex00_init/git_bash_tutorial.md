@@ -67,3 +67,5 @@
 
 * 웹 브라우저로 자신의 원격 저장소에 변경 사항 적용을 확인
 * commit 할 때 변경 내용 설명에는 되도록 특수문자(` \ % 등)는 사용하지 않는 것을 추천
+
+[![git bash add commit push](https://i.ytimg.com/vi/TcULRXQHtzo/hqdefault.jpg)](https://youtu.be/TcULRXQHtzo?t=17)
