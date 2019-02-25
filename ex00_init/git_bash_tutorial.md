@@ -44,7 +44,7 @@
 | 사용자 이름 설정 (commit 이전)          | `git config user.name "<사용자 이름>"`    |
 | 사용자 email 설정 (commit 이전)        | `git config user.email "<사용자 email>"` |
 
-[![git bash clone video](https://i.ytimg.com/vi/fR0jyqhsU6w/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLA6B0Lmr9oJO4x4NWWedfHnCOfelU3L39)
+[![git bash clone video](https://i.ytimg.com/vi/fR0jyqhsU6w/hqdefault.jpg)](https://youtu.be/fR0jyqhsU6w)
 
 ## 수정사항 등록
 
