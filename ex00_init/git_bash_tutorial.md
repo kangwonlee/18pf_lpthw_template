@@ -23,6 +23,7 @@
 | 상위 폴더로 이동 | `cd ..` |
 | 비어 있는 특정 폴더 삭제 | `rmdir temp` |
 | `git` 실행 파일의 정확한 위치 | `which git` |
+| `python` 실행 파일의 정확한 위치 | `which python` |
 | 문서 파일의 내용 확인 | `cat ~/.bashrc` |
 | 여러 명령을 이어서 실행 | `ls ; cd ..`<br>`mkdir test && cd temp` |
 
