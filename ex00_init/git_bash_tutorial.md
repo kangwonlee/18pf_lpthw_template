@@ -22,7 +22,8 @@
 | 특정 폴더로 작업 폴더 변경 | <code>cd tem<kbd>Tab</kbd></code> |
 | 상위 폴더로 이동 | `cd ..` |
 | 비어 있는 특정 폴더 삭제 | `rmdir temp` |
-| 실행 파일의 정확한 위치 | `which git` |
+| `git` 실행 파일의 정확한 위치 | `which git` |
+| `python` 실행 파일의 정확한 위치 | `which python` |
 | 문서 파일의 내용 확인 | `cat ~/.bashrc` |
 | 여러 명령을 이어서 실행 | `ls ; cd ..`<br>`mkdir test && cd temp` |
 
