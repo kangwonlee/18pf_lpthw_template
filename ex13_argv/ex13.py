@@ -9,3 +9,6 @@
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
 # print 'abc', -> print('abc', end=" ")
 # 이 예제는 command-line 에서 실행시킬 것 / Please run this from the command-line
+
+
+# 실행하는 방법은 '실행 결과'를 참고하세요
