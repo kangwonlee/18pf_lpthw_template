@@ -8,3 +8,7 @@
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
 # print 'abc', -> print('abc', end=" ")
 # Here's some new strange stuff, remember type it exactly
+
+
+
+# 처음 보는 낯선 내용이 있으니, 정확히 입력하도록 주의하세요.
