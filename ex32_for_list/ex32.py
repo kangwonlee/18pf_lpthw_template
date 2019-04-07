@@ -9,3 +9,16 @@
 # print 'abc', -> print('abc', end=" ")
 # raw_input('abc') -> input('abc')
 # 오류노트 에 각자 오류노트 작성 / Please use your error-note
+
+
+# 첫 번째 for 순환문은 list를 따라 돕니다
+
+# 위와 같아요
+
+# 섞어 만든 list 도 돌 수 있어요
+
+# list를 만들 수도 있는데, 먼저 빈 것으로 시작합니다
+
+# 그리고 0에서 5까지 세는 range 함수를 써요
+
+# 이것도 출력할 수 있습니다
