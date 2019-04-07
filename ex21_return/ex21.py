@@ -9,3 +9,6 @@
 # print 'abc', -> print('abc', end=" ")
 # raw_input('abc') -> input('abc')
 # 오류노트 에 각자 오류노트 작성 / Please use your error-note
+
+
+# 추가 점수 문제. 아무렇게나 쓰세요.
