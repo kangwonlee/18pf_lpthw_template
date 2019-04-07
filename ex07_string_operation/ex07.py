@@ -7,3 +7,8 @@
 # print 'abc', 123 -> print('abc %s' % (123))
 # print 'abc', abc, 'def' -> print('abc %s def' % (abc))
 # print 'abc', -> print('abc', end=" ")
+
+
+# 마지막에 있는 end 매개변수를 살표보세요. (end=' ')
+
+# 지워보고 무슨 일이 일어나는지도 보세요.
