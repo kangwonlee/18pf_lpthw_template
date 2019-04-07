@@ -9,3 +9,16 @@
 # 오류노트 에 각자 오류노트 작성 / Please use your error-note
 # 메시지는 적당히 한글로 변경 / If necessary, localize messages
 # urlopen 은 urllib.request 에서 / urlopen is available in urllib.request
+
+
+# 문장을 먼저 연습하고 싶은가
+
+# 웹사이트에서 단어를 불러온다
+
+# 가짜 클래스 이름
+
+# 가짜 나머지 이름
+
+# 가짜 매개변수 목록
+
+# CTRL-D를 누를 때까지 계속한다
