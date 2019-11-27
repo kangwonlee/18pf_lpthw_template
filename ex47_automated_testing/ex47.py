@@ -9,3 +9,4 @@
 # print 'abc', -> print('abc', end=" ")
 # raw_input('abc') -> input('abc')
 # 오류노트 에 각자 오류노트 작성 / Please use your error-note
+# 폴더 구조는 46.3.1 참고 / For folder structure, see 46.3.1
