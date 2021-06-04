@@ -1,3 +1,7 @@
+# update pip, the python package management software
+# 파이썬 패키지 관리 프로그램인 pip 를 최신판으로 개정
+python -m pip install --upgrade pip
+
 # save the list of python packages installed to a file named list.txt 
 # 설치된 파이썬 패키지 목록을 출력하여 list.txt 파일에 저장
 python -m pip list > list.txt
