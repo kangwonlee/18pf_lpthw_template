@@ -1,3 +1,6 @@
+# make lpthw venv & install pytest
+# lpthw 가상환경을 만들고 pytest를 설치
+
 # update pip, the python package management software
 # 파이썬 패키지 관리 프로그램인 pip 를 최신판으로 개정
 python -m pip install --upgrade pip
