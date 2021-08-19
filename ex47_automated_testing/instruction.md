@@ -7,5 +7,5 @@
     Copy the `skeleton` folder tree created for ex46<br>
     `cp -r <ex46 skeleton> .` or<br>
     `python copy_from_ex46.py`
-1. 파일을 적당히 수정<br>Appropriately edit files
+1. 해당 폴더 트리와 파일을 적절히 수정<br>Make appropriate changes to the folder tree and files
 1. `pytest`
